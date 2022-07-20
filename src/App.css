@@ -40,8 +40,9 @@ h1 {
 
 .btn {
 	position: relative;
+	background-color: #ffffff83;
 	display: inline-block;
-	color: #777674;
+	color: #1e1e1d;
 	font-weight: bold;
 	text-decoration: none;
 	text-shadow: rgba(255,255,255,.5) 1px 1px, rgba(100,100,100,.3) 3px 7px 3px;
